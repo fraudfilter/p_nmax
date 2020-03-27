@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 require 'p_nmax'
 
-PNmax.scan_numbers STDIN, ARGV.shift.to_i
+PNmax.scan_nums STDIN, ARGV.shift.to_i

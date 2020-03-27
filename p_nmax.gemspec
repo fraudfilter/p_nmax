@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'p_nmax'
-  s.version     = '0.0.1'
+  s.version     = '0.0.3'
   s.date        = Date.today.to_s
   s.summary     = "Print n maximum numbers from file"
   s.description = s.summary

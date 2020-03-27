@@ -3,7 +3,7 @@ class PNmax
   class << self
 
     def scan_nums(stdin, argv)
-      glue_nums(stdin).max(argv)
+      p glue_nums(stdin).max(argv)
     end
 
     def glue_nums(input)
